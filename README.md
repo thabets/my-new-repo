@@ -1,2 +1,2 @@
 # my-new-repo
-This is actually me second repository that i am practicing 
+This is actually mysecond repository that i am practicing 
